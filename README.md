@@ -1,6 +1,6 @@
 # Node Shop App
 
-### This application was created as a study project for the *Node.js - The Complete Guide* course on Udemy and can be accessed *[here](https://shop-app-course.herokuapp.com/)*
+### This application was created as a study project for the *Node.js - The Complete Guide* course on Udemy and can be accessed *[here](https://nodecourse-shop-app.herokuapp.com/)*
 
 This app utilizes the following technologies:
   - Express framework
